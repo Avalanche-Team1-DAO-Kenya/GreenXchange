@@ -66,9 +66,16 @@ npm start
 Team Members
 
 Fidel Wakhulunya – 
+
+
 Anorld 
+
 Edwin Waweru
+
+
 Esther Oyoo
+
+
 Yvone Samwel
 
 
